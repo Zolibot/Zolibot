@@ -4,10 +4,19 @@
 
  🔭 I develop web applications, games, bots and other software solutions, study new technologies and follow the best coding practices.
 
+contact:
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
+<a href="https://t.me/markernow">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img>
+</a>
+<a href="mailto:piachev.a@ya.ru">
+<img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"><img>
+</a>
+<a href="https://github.com/Zolibot">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img>
+</a>
+
+:computer: &nbsp;Main tech knowledge
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Godot-07405E?style=for-the-badge&logo=godot&logoColor=white)
@@ -15,6 +24,7 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Django_REST_framework-092E20?style=for-the-badge&logo=rest&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Docker-07405E?style=for-the-badge&logo=godot&logoColor=white)
@@ -31,16 +41,13 @@
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Alt_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
-![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
----
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ---
 
-</details>
+
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zolibot&theme=solarized_dark)
