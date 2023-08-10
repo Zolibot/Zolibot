@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://Zolibot.ru/" target="_blank">Aleksandr</a> Python-developer
+<h1 align="center">Hi there, I'm <a href="https://github.com/Zolibot" target="_blank">Aleksandr</a> Python-developer
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
@@ -15,6 +15,8 @@ contact:
 <a href="https://github.com/Zolibot">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img>
 </a>
+
+----
 
 :computer: &nbsp;Main tech knowledge
 
@@ -56,7 +58,7 @@ contact:
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Zolibot&style=flat-square&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/Zolibot/Zolibot?color=blue" />
+<!-- <img src="https://badges.pufler.dev/visits/Zolibot/Zolibot?color=blue" /> -->
 </p>
 
 
